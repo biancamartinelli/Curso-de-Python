@@ -1,4 +1,4 @@
-#Faça um programa que leai um número inteiro qualquer e mostre na tela sua tabuada
+#Faça um programa que leia um número inteiro qualquer e mostre na tela sua tabuada
 
 numero = int(input('Digite um número para ver sua tabuada: '))
 
