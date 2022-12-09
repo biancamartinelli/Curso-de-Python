@@ -3,7 +3,7 @@
 ![cursoemvideo](https://user-images.githubusercontent.com/107266212/206633987-f0e3f004-8b2a-45cc-9f6f-4ffed45585ce.jpg)
 
 ## 💡 Acesso ao curso:
-[Você pode acessar o link curso aqui](https://www.cursoemvideo.com/cursos/).
+[Você pode acessar o link curso aqui](https://www.cursoemvideo.com/curso/python-3-mundo-1/).
 
 ## 📌 Exercícios Mundo 01 
 
